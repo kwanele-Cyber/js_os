@@ -4,9 +4,15 @@
   "description": "a basic operating system in javascript.",
   "license": "ISC",
   "author": "KM Zikhali",
-  "type": "commonjs",
+  "type": "module",
   "main": "main.js",
   "scripts": {
-    "test": "test"
-  }
+    "start": "node ."
+  },
+  "keywords":[
+	"javascript",
+	"operating system",
+	"os", 
+	"osdev"
+  ]
 }
