@@ -2,6 +2,16 @@
 
 A simple operating system written in JavaScript (bootloader or kernel-style image).
 
+## building the OS Image
+
+```bash
+npm start <your_os_image_name>
+```
+- you can also include the file extension to your file name
+ e.g file_name.bin
+- if file extension is not specified it will not have one
+ e.g file_name 
+
 ## How to Run in Termux (Android)
 
 1. **Install QEMU (headless version):**
