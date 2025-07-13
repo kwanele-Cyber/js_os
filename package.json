@@ -1,0 +1,12 @@
+{
+  "name": "js_os",
+  "version": "1.0.0",
+  "description": "a basic operating system in javascript.",
+  "license": "ISC",
+  "author": "KM Zikhali",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  }
+}
